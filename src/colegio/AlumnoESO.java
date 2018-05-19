@@ -3,6 +3,7 @@ package colegio;
 import java.util.Date;
 
 public final class AlumnoESO extends Alumno {
+	//adios
 	//Que dise que ase
     public AlumnoESO() {
         super();
