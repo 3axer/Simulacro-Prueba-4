@@ -1,4 +1,5 @@
 package colegio;
+//Jesús Diego Cruz Díaz
 //19/05/2018
 import java.util.Date;
 
