@@ -1,5 +1,5 @@
 package colegio;
-
+//Jesús Diego Cruz Díaz
 import java.util.Date;
 
 public final class AlumnoCiclo extends Alumno {
