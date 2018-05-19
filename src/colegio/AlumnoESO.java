@@ -4,6 +4,7 @@ import java.util.Date;
 
 public final class AlumnoESO extends Alumno {
 	//adios
+	//hola que tal
 	//Que dise que ase
     public AlumnoESO() {
         super();
