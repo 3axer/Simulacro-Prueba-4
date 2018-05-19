@@ -5,6 +5,8 @@ import java.util.Date;
 
 public abstract class Alumno implements Escolarizable {
 	//gano yo    
+	//ni de coña    
+	//ganais los dos
     private String nombre;
     private String apellidos;
     private Date nacimiento;
