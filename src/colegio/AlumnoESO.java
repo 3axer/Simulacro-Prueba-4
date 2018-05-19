@@ -49,5 +49,7 @@ public final class AlumnoESO extends Alumno {
             this.curso = null;
     }
 
-  
+    public void calcularNacimiento(){
+	int var = 1;
+	var +=1;  
 }
