@@ -1,5 +1,5 @@
 package colegio;
-
+//19/05/2018
 import java.util.Date;
 
 public final class AlumnoCiclo extends Alumno {
